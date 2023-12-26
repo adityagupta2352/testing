@@ -14,6 +14,6 @@ public class GitHub {
 
     @GetMapping("/")
     public String sayHello(){
-        return "Hello";
+        return "Go";
     }
 };
