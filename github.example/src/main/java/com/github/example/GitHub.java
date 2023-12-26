@@ -14,7 +14,6 @@ public class GitHub {
 
     @GetMapping("/")
     public String sayHello(){
-        System.out.println("Hello Dunia");
         return "Hello";
     }
 };

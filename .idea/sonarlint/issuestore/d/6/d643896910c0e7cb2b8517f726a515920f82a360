@@ -1,7 +1,6 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(Öİ8ÕËò§Ê1
 >
-java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8 Ğñ§Ê1
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8 Ğñ§Ê1
 H
 java:S1068"&Remove this unused "id" private field.(şÓî«şÿÿÿÿ8 Ğñ§Ê1
 E
